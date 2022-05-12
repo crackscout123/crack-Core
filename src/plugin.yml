@@ -1,0 +1,29 @@
+name: crack-Core
+version: 1.0
+api-version: 1.18
+author: crackscout123
+main: de.crackscout123.Main
+
+commands:
+  force:
+  back:
+  invsee:
+  trade:
+  tpd:
+  tpr:
+  tpa:
+  home:
+  sethome:
+  sun:
+  heal:
+  fly:
+  vanish:
+    aliases: [v,spectator]
+  gamemode:
+    aliases: [gm,gmode]
+  craft:
+    aliases: [wb,workbench]
+  enderchest:
+    aliases: [ec,ender]
+  repair:
+    aliases: [fix,fixall]
